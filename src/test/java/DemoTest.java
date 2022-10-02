@@ -5,6 +5,6 @@ import static org.junit.jupiter.api.Assertions.*;
 class DemoTest {
     @Test
     void demoTest() {
-        assertEquals("hello", "hello");
+        assertEquals("hello", "hello2");
     }
 }
